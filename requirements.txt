@@ -1,0 +1,5 @@
+pyAudio
+speechRecognition
+playsound
+gtts
+pyttsx3
